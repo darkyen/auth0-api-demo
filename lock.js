@@ -1,8 +1,8 @@
 export const lockOptions = {
     auth: {
         params: {
-            audience: 'http://localhost:3000/anny',
-            scope: 'read:message write:message'
+            audience: 'YOUR_API_IDENTIFIER_HERE',
+            scope: 'YOUR_INTENDED_SCOPES_HERE'
         }
     }
 };
